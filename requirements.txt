@@ -1,0 +1,7 @@
+flask
+
+Flask-SQLAlchemy
+WTForms==2.3.3
+Flask-Script==2.0.5
+passlib
+
